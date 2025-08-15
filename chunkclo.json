@@ -1,0 +1,331 @@
+[
+  {
+    "id": "other-websites",
+    "intent": "other_websites_related",
+    "text": "I cannot assist with queries about other websites, platforms, or online services. I'm a fashion assistant exclusively for Hasutara, focused on helping you with our clothing and accessories. Would you like to explore our fashion collection instead?"
+  },
+  {
+    "id": "human",
+    "intent": "human_related",
+    "text": "I cannot provide personal advice, relationship guidance, or answer questions about human health and wellbeing. I'm a fashion assistant focused on helping you with clothing and style. For personal matters, please consult appropriate professionals. Would you like help finding some stylish outfits instead?"
+  },
+  {    "id": "ai-ml",
+    "intent": "ai_ml_llm_related",
+    "text": "I don't provide AI/ML services, model training, or LLM/chatbot development assistance. I'm a fashion assistant focused on helping you with clothing and style. For AI/ML related questions, please consult technical documentation or AI development resources. Can I help you find some fashionable items instead?"
+  },
+  {    "id": "cars",
+    "intent": "automotive_related",
+    "text": "I apologize, but we don't sell cars or automotive parts. We are exclusively a fashion brand specializing in clothing and accessories. Would you like to explore our latest fashion collection instead?"
+  },
+  {    "id": "real-estate",
+    "intent": "real_estate_related",
+    "text": "I don't handle real estate queries or property matters. I'm here to assist you with fashion and clothing related questions only. Can I help you find some stylish outfits?"
+  },
+  {    "id": "medical",
+    "intent": "medical_related",
+    "text": "I cannot provide medical advice or sell medical supplies. I'm a fashion assistant focused on helping you with clothing and style. Please consult a healthcare professional for medical matters."
+  },
+  {    "id": "travel",
+    "intent": "travel_related",
+    "text": "I don't book flights or handle travel arrangements. I'm your fashion assistant, here to help you find perfect outfits for your travels! Would you like to see our travel-friendly clothing collection?"
+  },
+  {    "id": "crypto",
+    "intent": "cryptocurrency_related",
+    "text": "I don't handle cryptocurrency or investment advice. I'm your fashion consultant, focused on helping you look great! Would you like to invest in some stylish clothing instead?"
+  },
+  {    "id": "pets",
+    "intent": "pet_related",
+    "text": "We don't sell pet supplies or pet food. We're a fashion brand for humans! However, if you're looking for something to wear while walking your pet, I'd be happy to help!"
+  },
+  {    "id": "books",
+    "intent": "books_related",
+    "text": "We don't sell books or educational materials. We're focused on fashion and clothing. Would you like to check out our style guides instead?"
+  },
+  {    "id": "gaming",
+    "intent": "gaming_related",
+    "text": "We don't sell video games or gaming equipment. We're a fashion brand, but we do have some awesome gaming-inspired graphic tees if you're interested!"
+  },
+  {    "id": "repairs",
+    "intent": "repair_services",
+    "text": "We don't provide repair services for electronics or appliances. We're a fashion brand, but we can help you with clothing care instructions and maintenance!"
+  },
+  {    "id": "software",
+    "intent": "software_related",
+    "text": "We don't sell software or provide technical support. We're a fashion brand focused on helping you look your best. Need help finding the perfect outfit?"
+  },
+  {    "id": "food",
+    "intent": "food_related",
+    "text": "I apologize, but we don't sell any food items. We are exclusively a fashion brand specializing in clothing and accessories. Would you like to explore our clothing collection instead?"
+  },
+  {    "id": "electronics",
+    "intent": "electronics_related",
+    "text": "I apologize, but we don't sell electronics. We are a fashion brand focused on providing high-quality clothing and accessories. Can I help you find some stylish outfits instead?"
+  },
+  {    "id": "api",
+    "intent": "api_related",
+    "text": "I don't provide API services. I'm a fashion assistant here to help you with our clothing collection, sizing, orders, and style advice. How can I assist you with your fashion needs?"
+  },
+  {    "id": "home",
+    "intent": "home_furniture",
+    "text": "We don't sell furniture or home items. We specialize in fashion and clothing only. Would you like to check out our latest clothing collection?"
+  },
+  {    "id": "general",
+    "intent": "unrelated_query",
+    "text": "I can only assist you with questions about our clothing, accessories, orders, and fashion advice. For other topics, please try a general search engine or relevant service provider."
+  },
+  {
+    "id": "chatbot-name",
+    "intent": "chatbot_info",
+    "text": "Hello! I'm Hasu, your virtual fashion assistant at Hasutara. How can I help you today?"
+  },
+  {
+    "id": "product-urban-street-jacket",
+    "intent": "product_details",
+    "text": "Urban Street Jacket: A stylish jacket designed for urban environments, offering both comfort and fashion. Available in sizes S, M, L, XL. Price: ₹4,999."
+  },
+  {
+    "id": "product-cargo-pants-pro",
+    "intent": "product_details",
+    "text": "Cargo Pants Pro: Durable and functional cargo pants suitable for everyday wear. Available in sizes 30, 32, 34, 36. Price: ₹3,499."
+  },
+  {
+    "id": "product-street-style-hoodie",
+    "intent": "product_details",
+    "text": "Street Style Hoodie: A comfortable hoodie with a modern streetwear design. Available in sizes S, M, L, XL. Price: ₹2,999."
+  },
+  {
+    "id": "product-urban-sneakers-men",
+    "intent": "product_details",
+    "text": "Urban Sneakers (Men): Trendy sneakers that combine style and comfort for urban settings. Available in sizes 7, 8, 9, 10, 11. Price: ₹5,999."
+  },
+  {
+    "id": "product-graphic-tee-men",
+    "intent": "product_details",
+    "text": "Graphic Tee (Men): A cotton t-shirt featuring unique graphic designs. Available in sizes S, M, L, XL. Price: ₹1,499."
+  },
+  {
+    "id": "product-cropped-denim-jacket",
+    "intent": "product_details",
+    "text": "Cropped Denim Jacket: A fashionable denim jacket tailored for a modern look. Available in sizes XS, S, M, L. Price: ₹3,999."
+  },
+  {
+    "id": "product-high-waist-jeans",
+    "intent": "product_details",
+    "text": "High Waist Jeans: Comfortable and stylish high-waisted jeans suitable for various occasions. Available in sizes 26, 28, 30, 32. Price: ₹2,499."
+  },
+  {
+    "id": "product-oversized-hoodie-women",
+    "intent": "product_details",
+    "text": "Oversized Hoodie (Women): A cozy oversized hoodie perfect for casual wear. Available in sizes S, M, L, XL. Price: ₹2,799."
+  },
+  {
+    "id": "product-urban-sneakers-women",
+    "intent": "product_details",
+    "text": "Urban Sneakers (Women): Sleek sneakers designed for the modern woman on the go. Available in sizes 5, 6, 7, 8, 9. Price: ₹5,999."
+  },
+  {
+    "id": "product-graphic-tee-women",
+    "intent": "product_details",
+    "text": "Graphic Tee (Women): A soft cotton t-shirt featuring artistic graphics. Available in sizes XS, S, M, L. Price: ₹1,499."
+  },
+  {
+    "id": "product-leather-backpack",
+    "intent": "product_details",
+    "text": "Leather Backpack: A durable leather backpack suitable for daily use. Dimensions: 16\" x 12\" x 6\". Price: ₹3,499."
+  },
+  {
+    "id": "product-beanie-hat",
+    "intent": "product_details",
+    "text": "Beanie Hat: A warm and stylish beanie to complement your outfit. One size fits all. Price: ₹999."
+  },
+  {
+    "id": "product-sunglasses",
+    "intent": "product_details",
+    "text": "Sunglasses: Trendy sunglasses offering UV protection and style. Unisex design. Price: ₹1,999."
+  },
+  {
+    "id": "product-leather-belt",
+    "intent": "product_details",
+    "text": "Leather Belt: A classic leather belt to complete your look. Available in sizes 32, 34, 36, 38. Price: ₹1,499."
+  },
+  {
+    "id": "product-graphic-cap",
+    "intent": "product_details",
+    "text": "Graphic Cap: A cap featuring unique designs to showcase your personality. Adjustable strap. Price: ₹1,199."
+  },
+  {
+    "id": "shipping-policy",
+    "intent": "shipping_details",
+    "text": "We provide worldwide shipping with tracking. Free shipping on orders over ₹999. Standard delivery takes 3-5 business days within India and 7-14 days internationally. Express shipping options available."
+  },
+  {
+    "id": "return-policy",
+    "intent": "return_details",
+    "text": "Easy 7-day return policy. Items must be unworn with original tags. Free returns within India. International returns may incur shipping charges. Refunds processed within 5-7 business days of return receipt."
+  },
+  {
+    "id": "size-guide",
+    "intent": "sizing_details",
+    "text": "Our clothing follows standard international sizing. We recommend checking our detailed size guide before ordering. For between sizes, we recommend sizing up for a more comfortable fit. Size exchanges are free within India."
+  },
+  {
+    "id": "mens-collection-page",
+    "intent": "page_link",
+    "text": "Explore our Men's Collection: https://www.hasutara.com/all-products?category=MAN%27S%20Collections"
+  },
+  {
+    "id": "womens-collection-page",
+    "intent": "page_link",
+    "text": "Explore our Women's Collection: https://www.hasutara.com/all-products?category=WOMAN%27S%20Collections"
+  },
+  {
+    "id": "accessories-collection-page",
+    "intent": "page_link",
+    "text": "Explore our Accessories Collection: https://www.hasutara.com/all-products?category=ACCESSORIES%20Collections"
+  },
+  {
+    "id": "payment-methods",
+    "intent": "payment_options",
+    "text": "We accept multiple payment methods: UPI (GPay, PhonePe, Paytm), Credit/Debit Cards, Net Banking, EMI options available on orders above ₹3000. All transactions are secure and encrypted."
+  },
+  {
+    "id": "cod-policy",
+    "intent": "cash_on_delivery",
+    "text": "Cash on Delivery available for orders under ₹10,000 across most pin codes in India. Additional COD charges of ₹49 may apply."
+  },
+  {
+    "id": "cancellation-policy",
+    "intent": "order_cancellation",
+    "text": "Orders can be cancelled within 24 hours of placement. Once shipped, orders cannot be cancelled. Full refund provided for cancelled orders within 5-7 business days."
+  },
+  {
+    "id": "exchange-policy",
+    "intent": "exchange_policy",
+    "text": "Easy size exchange within 7 days. Exchange requests processed within 24 hours. Free exchange shipping within India. Different color/style exchanges treated as returns."
+  },
+  {
+    "id": "refund-policy",
+    "intent": "refund_details",
+    "text": "Refunds processed to original payment method within 5-7 business days. Store credit option available for faster processing. International refunds may take 10-14 business days."
+  },
+  {
+    "id": "order-tracking",
+    "intent": "tracking_info",
+    "text": "Track your order real-time through our website or app. SMS and email updates at every step. Contact customer service for detailed tracking information."
+  },
+  {
+    "id": "customer-support",
+    "intent": "support_info",
+    "text": "24/7 customer support via WhatsApp, email (support@hasutara.com), and phone (1800-XXX-XXXX). Live chat available 10 AM to 8 PM IST."
+  },
+  {
+    "id": "size-exchange",
+    "intent": "size_exchange_process",
+    "text": "Initiate size exchange through your account. Use our doorstep exchange service - we'll pick up and deliver the new size simultaneously."
+  },
+  {
+    "id": "product-quality",
+    "intent": "quality_guarantee",
+    "text": "100% authentic products with quality guarantee. Each item undergoes strict quality checks. Manufacturing defects covered under warranty."
+  },
+  {
+    "id": "warranty-policy",
+    "intent": "warranty_info",
+    "text": "30-day warranty against manufacturing defects. Premium products come with extended 90-day warranty. Keep original tags and invoice for warranty claims."
+  },
+  {
+    "id": "bulk-orders",
+    "intent": "bulk_purchase",
+    "text": "Special discounts on bulk orders above 10 pieces. Corporate gifting solutions available. Contact bulk@hasutara.com for quotes."
+  },
+  {
+    "id": "student-discount",
+    "intent": "student_offer",
+    "text": "10% additional discount for students with valid ID. Register with your educational email for automatic discounts."
+  },
+  {
+    "id": "loyalty-program",
+    "intent": "loyalty_rewards",
+    "text": "Join Hasutara Rewards - earn points on every purchase. 100 points = ₹100. Additional benefits include early access to sales, exclusive offers."
+  },
+  {
+    "id": "gift-cards",
+    "intent": "gift_card_info",
+    "text": "Digital gift cards available from ₹500 to ₹10,000. Valid for 1 year. Instant delivery via email. Perfect for last-minute gifting."
+  },
+  {
+    "id": "express-delivery",
+    "intent": "fast_shipping",
+    "text": "Express delivery available in select cities. Same-day delivery in metro cities for orders before 2 PM. Additional charges apply."
+  },
+  {
+    "id": "international-shipping",
+    "intent": "global_shipping",
+    "text": "We ship to 50+ countries. Duties and taxes extra. 10-15 days delivery timeframe. Track international orders through our global tracking system."
+  },
+  {
+    "id": "product-care",
+    "intent": "care_instructions",
+    "text": "Detailed care instructions provided with each product. Follow wash care labels for longevity. Professional cleaning recommended for premium items."
+  },
+  {
+    "id": "sustainable-packaging",
+    "intent": "eco_friendly",
+    "text": "100% plastic-free packaging. Recycled and biodegradable materials used. Part of our commitment to sustainable fashion."
+  },
+  {
+    "id": "app-features",
+    "intent": "mobile_app",
+    "text": "Download our mobile app for exclusive app-only offers. Virtual try-on feature available. Earn extra rewards on app purchases."
+  },
+  {
+    "id": "store-locator",
+    "intent": "offline_stores",
+    "text": "Find our stores across major cities. Book personal shopping appointments. Click and collect service available at select stores."
+  },
+  {
+    "id": "fallback-general",
+    "intent": "fallback_general",
+    "text": "I'm your Hasutara Fashion Assistant. I'm here to help with anything fashion-related! I can assist you with browsing our collections, finding the perfect size, tracking orders, or getting style advice. What would you like to know?"
+  },
+  {
+    "id": "fallback-unclear",
+    "intent": "fallback_unclear",
+    "text": "I want to help, but I'm not quite sure what you're looking for. To assist you better, could you tell me if you're interested in: 1) Finding specific clothing items 2) Getting style advice 3) Checking order status 4) Learning about sizes and fit 5) Understanding our policies?"
+  },
+  {
+    "id": "fallback-specific",
+    "intent": "fallback_specific",
+    "text": "To help you better, could you be more specific about what you're looking for? For example: Are you looking for a particular clothing item? Interested in a specific size or color? Need help with an order? Want style recommendations for an occasion?"
+  },
+  {
+    "id": "fallback-redirect",
+    "intent": "fallback_redirect",
+    "text": "Let me help you find what you're looking for. You can: 1) Browse our latest arrivals 2) Get personalized style advice 3) Track your order 4) Check size guides 5) View our current deals and promotions. Which would you prefer?"
+  },
+  {
+    "id": "fallback-rephrase",
+    "intent": "fallback_rephrase",
+    "text": "I'm sorry, but could you rephrase that? As your fashion assistant, I'm here to help with anything related to our clothing, accessories, orders, or style advice. Feel free to ask about specific items, sizes, colors, or style recommendations!"
+  },
+  {
+    "id": "fallback-partial",
+    "intent": "fallback_partial",
+    "text": "I understand part of your request, but could you clarify what exactly you're looking for? I can help you with finding clothing items, checking availability, understanding sizes, or getting style advice."
+  },
+  {
+    "id": "fallback-suggestions",
+    "intent": "fallback_suggestions",
+    "text": "While I'm not sure about that exact request, here are some things I can help you with: 1) Find clothes for specific occasions 2) Recommend outfits based on your style 3) Help with sizing and fit 4) Check order status 5) Explain our policies"
+  },
+  {
+    "id": "fallback-alternative",
+    "intent": "fallback_alternative",
+    "text": "I might not have what you're looking for, but I'd be happy to show you our latest collection or help you find something similar. Would you like to explore some alternatives?"
+  },
+  {
+    "id": "fallback-confirmation",
+    "intent": "fallback_confirmation",
+    "text": "Just to make sure I understand correctly - are you looking for help with our clothing products, order information, or style advice? This will help me give you the best assistance possible."
+  }
+]

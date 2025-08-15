@@ -1,0 +1,42 @@
+[
+  {
+    "intent": "pricing_plans",
+    "text": "Pricing - Chatbase Chatbase.co Pricing Enterprise Resources Open navigation menu Predictable pricing scalable plans Designed for every stage of your journey."
+  },
+  {
+    "intent": "free_plan_details",
+    "text": "Monthly Yearly Free $ 0 per month Get started Access to fast models 100 message credits/month 400 KB per AI agent 1 seat 1 AI agent Limit of 10 links to train on Embed on unlimited websites AI agents get deleted after 14 days of inactivity on the free plan."
+  },
+  {
+    "intent": "hobby_plan_details",
+    "text": "Hobby $ 40 per month Subscribe Everything in Free + Access to advanced models 2,000 message credits/month 1 AI agent 5 AI Actions per AI agent 33 MB per AI agent Unlimited links to train on API access Integrations Basic analytics"
+  },
+  {
+    "intent": "standard_plan_details",
+    "text": "Standard Popular $ 150 per month Subscribe Everything in Hobby + 12,000 message credits/month 10 AI Actions per AI agent 3 seats 2 AI agents"
+  },
+  {
+    "intent": "pro_plan_details",
+    "text": "Pro $ 500 per month Subscribe Everything in Standard + 40,000 message credits/month 15 AI Actions per AI agent 5+ seats 3 AI agents Advanced analytics"
+  },
+  {
+    "intent": "enterprise_plan_details",
+    "text": "Enterprise Let's Talk Contact us Everything in Pro + Higher limits Priority support SLAs Success manager (CSM) Trusted by 9000 + business worldwide"
+  },
+  {
+    "intent": "add_on_details",
+    "text": "Add-ons Fine-tune your plan with powerful add-ons CreditGradientCircle Auto recharge credits When your credits fall below the threshold you set, we'll automatically add credits that don't expire to your account, ensuring uninterrupted service. $ 14 Total per 1000 message credits Get Add-on ChatGradientCircle Extra agents $7 per AI agent / month $ 7 Total per month Get Add-on GlobeGradientCircle Custom domains Use your own custom domains for the AI agent's embed script, iframe, and shareable link. $ 59 Total per month Get Add-on MessageGradientCircle Extra message credits $12 per 1000 credits / month $ 12 Total per month Get Add-on TypingGradientCircle Remove 'Powered By Chatbase' Remove the Chatbase branding from the iframe and widget $ 39 Total per month Get Add-on"
+  },
+  {
+    "intent": "plan_comparison",
+    "text": "Compare Compare all our plans Monthly Yearly Free $ 0 per month Get started Hobby $ 40 per month Subscribe Standard Popular $ 150 per month Subscribe Pro $ 500 per month Subscribe"
+  },
+  {
+    "intent": "plan_configuration",
+    "text": "Configuration Message credits (monthly) Agents AI Actions per agent Agent size (characters) Seats Embed on unlimited websites Training Links to train on Activity Basic analytics Advanced analytics Integrations & API API access Zapier Slack Wordpress WhatsApp Messenger Instagram Model Fast models Advanced OpenAI models Advanced Anthropic models Advanced Gemini models Advanced Cohere models Advanced DeepSeek models Advanced Meta models Advanced MoonshotAI models"
+  },
+  {
+    "intent": "faq",
+    "text": "FAQ Get answers to the most commonly asked questions How do message credits work? When are my message credits renewed? How do auto-recharge message credits work? What is the difference between subscription credits and auto-recharge credits? How come gpt-4o is cheaper than gpt-4 and gpt-4-turbo? How many users can use my agent? How do I know the size of my document? How much data can I give one agent? How does the pro plan work?"
+  }
+]
